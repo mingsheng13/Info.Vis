@@ -1,0 +1,888 @@
+gender,event,medal,athlete,abb,country,grp_id,type,year,guide,ISOnumeric
+Men,Double FITA Round Amputee,Silver,BRENNE Manfred,FRG,,,Archery,1980,,-1
+Men,Double FITA Round Paraplegic,Gold,GEISS H.,FRG,,,Archery,1980,,-1
+Men,Short Metric Round Tetraplegic,Gold,HENKER Siegmar,FRG,,,Archery,1980,,-1
+Women,Double FITA Round Paraplegic,Bronze,DERSEN Anneliese,FRG,,,Archery,1980,,-1
+Men,Double FITA Round Team Amputee,Gold,BRENNE Manfred,FRG,FR Germany,1.0,Archery,1980,,-1
+Men,Double FITA Round Team Amputee,Gold,BUTENHOFF Hilmar,FRG,FR Germany,2.0,Archery,1980,,-1
+Men,Double FITA Round Team Amputee,Gold,POHL K.,FRG,FR Germany,3.0,Archery,1980,,-1
+Men,Double FITA Round Team Paraplegic,Bronze,GEISS H.PFEFFER U.SCHMIDBERGER R.,FRG,FR Germany,1.0,Archery,1980,,-1
+Women,Double FITA Round Integrated,Gold,DERSEN Anneliese,FRG,,,Archery,1984,,-1
+Men,Double FITA Round Team Integrated,Bronze,BOECKERS Manfred,FRG,FR Germany,1.0,Archery,1984,,-1
+Men,Double FITA Round Team Integrated,Bronze,BRENNE Manfred,FRG,FR Germany,2.0,Archery,1984,,-1
+Men,Double FITA Round Team Integrated,Bronze,BUTENHOFF Kilmar,FRG,FR Germany,3.0,Archery,1984,,-1
+Men,Double FITA Round 2-6,Bronze,WOLF Udo,FRG,,,Archery,1988,,-1
+Women,Double FITA Round Open,Silver,DERSEN Anneliese,FRG,,,Archery,1988,,-1
+Women,Double FITA Round Team 2-6,Silver,DROSDZIOK Ursula,FRG,FR Germany,1.0,Archery,1988,,-1
+Women,Double FITA Round Team 2-6,Silver,ENZMANN Inge,FRG,FR Germany,2.0,Archery,1988,,-1
+Women,Double FITA Round Team 2-6,Silver,KIEBLICH Karin,FRG,FR Germany,3.0,Archery,1988,,-1
+Women,Individual Open,Gold,GRISHKO Tatiana,EUN,,,Archery,1992,,-1
+Men,100 m D,Gold,WAGNER K.,FRG,,,Athletics,1980,,-1
+Men,100 m D,Bronze,WILL K.,FRG,,,Athletics,1980,,-1
+Men,100 m F1,Gold,BERG Matthias,FRG,,,Athletics,1980,,-1
+Men,100 m F1,Bronze,SCHARMENTKE R.,FRG,,,Athletics,1980,,-1
+Men,400 m A,Silver,MEYER Klaus,FRG,,,Athletics,1980,,-1
+Men,400 m C,Gold,JOHANN Jurgen,FRG,,,Athletics,1980,,-1
+Men,400 m D,Silver,WILL K.,FRG,,,Athletics,1980,,-1
+Men,400 m D,Bronze,WAGNER K.,FRG,,,Athletics,1980,,-1
+Men,400 m F1,Gold,BERG Matthias,FRG,,,Athletics,1980,,-1
+Men,400 m F1,Silver,SCHARMENTKE R.,FRG,,,Athletics,1980,,-1
+Men,1500 m F,Gold,SCHROEDER Karl,FRG,,,Athletics,1980,,-1
+Men,5000 m Walk A,Bronze,JANCIC Miroslav,YUG,,,Athletics,1980,,-1
+Men,Slalom F1,Gold,BRAND Andreas,FRG,,,Athletics,1980,,-1
+Men,Slalom F1,Silver,BERG Matthias,FRG,,,Athletics,1980,,-1
+Men,Slalom 3,Silver,GOLOMBEK Gregor,FRG,,,Athletics,1980,,-1
+Men,High Jump B,Bronze,KNORRS W.,FRG,,,Athletics,1980,,-1
+Men,High Jump C,Gold,JOHANN Jurgen,FRG,,,Athletics,1980,,-1
+Men,High Jump D,Bronze,KOLODZIE Norbert,FRG,,,Athletics,1980,,-1
+Men,Long Jump B,Bronze,KNORRS W.,FRG,,,Athletics,1980,,-1
+Men,Long Jump C,Silver,JOHANN Jurgen,FRG,,,Athletics,1980,,-1
+Men,Long Jump D,Bronze,KOLODZIE Norbert,FRG,,,Athletics,1980,,-1
+Men,Long Jump F1,Gold,BERG Matthias,FRG,,,Athletics,1980,,-1
+Men,Long Jump F1,Bronze,SCHARMENTKE R.,FRG,,,Athletics,1980,,-1
+Men,Shot Put 1A,Silver,WEBER Edund,FRG,,,Athletics,1980,,-1
+Men,Shot Put 1C,Gold,SPIESS Guenter,FRG,,,Athletics,1980,,-1
+Men,Shot Put 1C,Silver,HENKER Siegmar,FRG,,,Athletics,1980,,-1
+Men,Shot Put A,Bronze,GRUNDMANN Dieter,FRG,,,Athletics,1980,,-1
+Men,Shot Put C,Gold,JOSEFIAK Hans,FRG,,,Athletics,1980,,-1
+Men,Shot Put C,Bronze,KUEHNEL E.,FRG,,,Athletics,1980,,-1
+Men,Shot Put CP D,Bronze,IZLAKAR Franjo,YUG,,,Athletics,1980,,-1
+Men,Shot Put D,Bronze,DORST G.,FRG,,,Athletics,1980,,-1
+Men,Shot Put E,Gold,BEEZ Alois,FRG,,,Athletics,1980,,-1
+Men,Shot Put F,Bronze,KERN Juergen,FRG,,,Athletics,1980,,-1
+Men,Shot Put 2,Silver,HERTLE Walter,FRG,,,Athletics,1980,,-1
+Men,Shot Put 4,Bronze,SCHUHBAUER Johann,FRG,,,Athletics,1980,,-1
+Men,Discus Throw 1A,Silver,WEBER Edund,FRG,,,Athletics,1980,,-1
+Men,Discus Throw A,Silver,GRUNDMANN Dieter,FRG,,,Athletics,1980,,-1
+Men,Discus Throw C,Gold,JOSEFIAK Hans,FRG,,,Athletics,1980,,-1
+Men,Discus Throw E,Gold,BEEZ Alois,FRG,,,Athletics,1980,,-1
+Men,Discus Throw 2,Silver,OKOREN Joze,YUG,,,Athletics,1980,,-1
+Men,Javelin 1C,Gold,SPIESS Guenter,FRG,,,Athletics,1980,,-1
+Men,Javelin 1C,Silver,HENKER Siegmar,FRG,,,Athletics,1980,,-1
+Men,Javelin C,Bronze,KUEHNEL E.,FRG,,,Athletics,1980,,-1
+Men,Javelin E,Silver,BEEZ Alois,FRG,,,Athletics,1980,,-1
+Men,Javelin 4,Gold,BENZ E.,FRG,,,Athletics,1980,,-1
+Men,Javelin 4,Silver,SCHUHBAUER Johann,FRG,,,Athletics,1980,,-1
+Men,Javelin 4,Bronze,PETERNELJ Marjan,YUG,,,Athletics,1980,,-1
+Men,Pentathlon 1C,Gold,HENKER Siegmar,FRG,,,Athletics,1980,,-1
+Men,Pentathlon 2,Gold,HERTLE Walter,FRG,,,Athletics,1980,,-1
+Men,Pentathlon 4,Gold,SCHUHBAUER Johann,FRG,,,Athletics,1980,,-1
+Men,Pentathlon 4,Bronze,FLACH W.,FRG,,,Athletics,1980,,-1
+Men,Pentathlon 5,Bronze,OST P.,FRG,,,Athletics,1980,,-1
+Women,400 m B,Gold,SCHAFHAUSEN I.,FRG,,,Athletics,1980,,-1
+Women,400 m F1,Silver,SIEVERT U.,FRG,,,Athletics,1980,,-1
+Women,400 m F1,Bronze,SCHAD Petra,FRG,,,Athletics,1980,,-1
+Women,800 m A,Gold,WITTJE Susanne,FRG,,,Athletics,1980,,-1
+Women,800 m B,Gold,SCHAFHAUSEN I.,FRG,,,Athletics,1980,,-1
+Women,1500 m F1,Gold,SCHAD Petra,FRG,,,Athletics,1980,,-1
+Women,1500 m 4,Bronze,ZEYHER C.,FRG,,,Athletics,1980,,-1
+Women,Slalom 2,Bronze,QUELL Margit,FRG,,,Athletics,1980,,-1
+Women,Slalom 4,Gold,ECKERT B.,FRG,,,Athletics,1980,,-1
+Women,Slalom 4,Silver,ZEYHER C.,FRG,,,Athletics,1980,,-1
+Women,Slalom 5,Silver,BREUER Rita,FRG,,,Athletics,1980,,-1
+Women,High Jump A,Silver,BOHNING Ilse,FRG,,,Athletics,1980,,-1
+Women,Long Jump B,Gold,SCHAFHAUSEN I.,FRG,,,Athletics,1980,,-1
+Women,Long Jump F1,Silver,SIEVERT U.,FRG,,,Athletics,1980,,-1
+Women,Long Jump F1,Bronze,SCHAD Petra,FRG,,,Athletics,1980,,-1
+Women,Shot Put A,Silver,BOHNING Ilse,FRG,,,Athletics,1980,,-1
+Women,Shot Put B,Silver,FIEBER G.,FRG,,,Athletics,1980,,-1
+Women,Shot Put 3,Silver,HAGENLOCHER Waltraud,FRG,,,Athletics,1980,,-1
+Women,Shot Put 4,Bronze,MILINKOVIC Milka,YUG,,,Athletics,1980,,-1
+Women,Shot Put 5,Silver,SWANEPOEL C.,FRG,,,Athletics,1980,,-1
+Women,Discus Throw B,Bronze,FIEBER G.,FRG,,,Athletics,1980,,-1
+Women,Discus Throw 5,Silver,SWANEPOEL C.,FRG,,,Athletics,1980,,-1
+Women,Javelin A,Bronze,OTTO-LANGE Brigitte,FRG,,,Athletics,1980,,-1
+Women,Javelin 4,Bronze,MILINKOVIC Milka,YUG,,,Athletics,1980,,-1
+Women,Pentathlon A,Gold,BOHNING Ilse,FRG,,,Athletics,1980,,-1
+Women,Pentathlon 2,Gold,QUELL Margit,FRG,,,Athletics,1980,,-1
+Women,Pentathlon 3,Gold,HAGENLOCHER Waltraud,FRG,,,Athletics,1980,,-1
+Women,Pentathlon 4,Silver,BATTRAN S.,FRG,,,Athletics,1980,,-1
+Women,Pentathlon 5,Silver,ROELLI S.,FRG,,,Athletics,1980,,-1
+Women,Shot Put A,Bronze,OTTO-LANGE Brigitte,FRG,,,Athletics,1980,,-1
+Women,4x60 m 2-5,Bronze,HAGENLOCHER Waltraud,FRG,FR Germany,1.0,Athletics,1980,,-1
+Women,4x60 m 2-5,Bronze,MARKLEIN Errol,FRG,FR Germany,2.0,Athletics,1980,,-1
+Women,4x60 m 2-5,Bronze,ROELLI S.,FRG,FR Germany,3.0,Athletics,1980,,-1
+Women,4x60 m 2-5,Bronze,ZEYHER C.,FRG,FR Germany,4.0,Athletics,1980,,-1
+Men,60 m C3,Silver,CHRIST Erich,FRG,,,Athletics,1984,,-1
+Men,100 m 1A,Bronze,LOBBERING H.,FRG,,,Athletics,1984,,-1
+Men,100 m A4,Silver,JOHANN Jurgen,FRG,,,Athletics,1984,,-1
+Men,100 m A5,Gold,BERGHOTER Mathias,FRG,,,Athletics,1984,,-1
+Men,100 m A5,Bronze,ABELE Felix,FRG,,,Athletics,1984,,-1
+Men,100 m B2,Bronze,KNORS Walter,FRG,,,Athletics,1984,,-1
+Men,100 m 4,Silver,SCHRODER H.,FRG,,,Athletics,1984,,-1
+Men,200 m 1A,Bronze,LOBBERING H.,FRG,,,Athletics,1984,,-1
+Men,200 m C3,Gold,CHRIST Erich,FRG,,,Athletics,1984,,-1
+Men,200 m 4,Bronze,SCHRODER H.,FRG,,,Athletics,1984,,-1
+Men,400 m 1A,Bronze,KOEBERLE Heinrich,FRG,,,Athletics,1984,,-1
+Men,400 m A4,Bronze,JOHANN Jurgen,FRG,,,Athletics,1984,,-1
+Men,400 m A5,Silver,BERG Matthias,FRG,,,Athletics,1984,,-1
+Men,400 m A5,Bronze,ADZIC Slobodan,YUG,,,Athletics,1984,,-1
+Men,400 m B2,Gold,KNORS Walter,FRG,,,Athletics,1984,,-1
+Men,400 m C7,Gold,KOCMUT Rudolf,YUG,,,Athletics,1984,,-1
+Men,400 m 3,Bronze,GOLOMBEK Gregor,FRG,,,Athletics,1984,,-1
+Men,800 m 1A,Gold,KOEBERLE Heinrich,FRG,,,Athletics,1984,,-1
+Men,800 m B2,Silver,ODZAKOVIC Ramo,YUG,,,Athletics,1984,,-1
+Men,800 m 3,Silver,GOLOMBEK Gregor,FRG,,,Athletics,1984,,-1
+Men,1500 m A5,Silver,ADZIC Slobodan,YUG,,,Athletics,1984,,-1
+Men,1500 m A5,Bronze,HECKER Axel,FRG,,,Athletics,1984,,-1
+Men,1500 m 3,Silver,GOLOMBEK Gregor,FRG,,,Athletics,1984,,-1
+Men,5000 m A5,Silver,ADZIC Slobodan,YUG,,,Athletics,1984,,-1
+Men,5000 m 3,Gold,GOLOMBEK Gregor,FRG,,,Athletics,1984,,-1
+Men,Marathon 1A,Gold,KOEBERLE Heinrich,FRG,,,Athletics,1984,,-1
+Men,Marathon 3,Silver,GOLOMBEK Gregor,FRG,,,Athletics,1984,,-1
+Men,Slalom 1C,Bronze,ZEYHER R.,FRG,,,Athletics,1984,,-1
+Men,Slalom 2,Gold,NORTMANN Hermann,FRG,,,Athletics,1984,,-1
+Men,High Jump A3,Gold,TIN Ngwe,BIR,,,Athletics,1984,,-1
+Men,High Jump A5,Gold,BERG Matthias,FRG,,,Athletics,1984,,-1
+Men,High Jump B2,Bronze,ANTLITZ Norbert,FRG,,,Athletics,1984,,-1
+Men,Long Jump A3,Silver,TIN Ngwe,BIR,,,Athletics,1984,,-1
+Men,Long Jump A3,Bronze,AUNG Gyi,BIR,,,Athletics,1984,,-1
+Men,Long Jump A5,Bronze,ABELE Felix,FRG,,,Athletics,1984,,-1
+Men,Long Jump B2,Gold,PEHAR Ante,YUG,,,Athletics,1984,,-1
+Men,Long Jump B2,Bronze,KNORS Walter,FRG,,,Athletics,1984,,-1
+Men,Long Jump B3,Silver,HEGEHOLZ Siegmund,GDR,,,Athletics,1984,,-1
+Men,Long Jump C8,Silver,FRENZEL Wolfgang,FRG,,,Athletics,1984,,-1
+Men,Triple Jump B2,Gold,PEHAR Ante,YUG,,,Athletics,1984,,-1
+Men,Shot Put 1A,Gold,WEBER Edund,FRG,,,Athletics,1984,,-1
+Men,Shot Put 1A,Bronze,KOEBERLE Heinrich,FRG,,,Athletics,1984,,-1
+Men,Shot Put 1C,Silver,HENKER Siegmar,FRG,,,Athletics,1984,,-1
+Men,Shot Put 1C,Bronze,SPIESS Guenter,FRG,,,Athletics,1984,,-1
+Men,Shot Put A1,Gold,FALKENHAIN Peter,FRG,,,Athletics,1984,,-1
+Men,Shot Put A3,Silver,BERSCHGENS Hubert,FRG,,,Athletics,1984,,-1
+Men,Shot Put A4,Gold,JOSEFIAK Hans,FRG,,,Athletics,1984,,-1
+Men,Shot Put A6-8,Gold,BEEZ Alois,FRG,,,Athletics,1984,,-1
+Men,Shot Put B1,Silver,GRUNDMANN Dieter,FRG,,,Athletics,1984,,-1
+Men,Shot Put C2,Silver,DERETA Zeljko,YUG,,,Athletics,1984,,-1
+Men,Shot Put C6,Silver,KRUGER Reinhard,FRG,,,Athletics,1984,,-1
+Men,Shot Put C7,Gold,IZLAKAR Franjo,YUG,,,Athletics,1984,,-1
+Men,Shot Put L5,Gold,MAIER Wolfgang,FRG,,,Athletics,1984,,-1
+Men,Shot Put L5,Silver,SCHULE Richard,FRG,,,Athletics,1984,,-1
+Men,Shot Put 3,Bronze,PETERNELJ Marjan,YUG,,,Athletics,1984,,-1
+Men,Discus Throw 1C,Gold,HENKER Siegmar,FRG,,,Athletics,1984,,-1
+Men,Discus Throw A1,Silver,LANG Klaus Detlef,FRG,,,Athletics,1984,,-1
+Men,Discus Throw A4,Silver,JOSEFIAK Hans,FRG,,,Athletics,1984,,-1
+Men,Discus Throw B1,Bronze,GRUNDMANN Dieter,FRG,,,Athletics,1984,,-1
+Men,Discus Throw C6,Bronze,KRUGER Reinhard,FRG,,,Athletics,1984,,-1
+Men,Discus Throw L5,Gold,SCHULE Richard,FRG,,,Athletics,1984,,-1
+Men,Discus Throw L5,Silver,MAIER Wolfgang,FRG,,,Athletics,1984,,-1
+Men,Javelin 1B,Silver,SCHMIDT P.,FRG,,,Athletics,1984,,-1
+Men,Javelin 1C,Bronze,SPIESS Guenter,FRG,,,Athletics,1984,,-1
+Men,Javelin A3,Gold,BERSCHGENS Hubert,FRG,,,Athletics,1984,,-1
+Men,Javelin B1,Silver,JANCIC Miroslav,YUG,,,Athletics,1984,,-1
+Men,Javelin C5,Gold,QUICKERT Michael,FRG,,,Athletics,1984,,-1
+Men,Javelin C6,Silver,KRIEGER Stefan,FRG,,,Athletics,1984,,-1
+Men,Javelin C6,Bronze,KRUGER Reinhard,FRG,,,Athletics,1984,,-1
+Men,Javelin L5,Gold,MAIER Wolfgang,FRG,,,Athletics,1984,,-1
+Men,Javelin 2,Bronze,NORTMANN Hermann,FRG,,,Athletics,1984,,-1
+Men,Javelin 3,Gold,PETERNELJ Marjan,YUG,,,Athletics,1984,,-1
+Men,Javelin 4,Gold,SCHUHBAUER Johann,FRG,,,Athletics,1984,,-1
+Men,Club Throw C2,Gold,DERETA Zeljko,YUG,,,Athletics,1984,,-1
+Men,Club Throw C5,Gold,QUICKERT Michael,FRG,,,Athletics,1984,,-1
+Men,Club Throw C6,Silver,KRIEGER Stefan,FRG,,,Athletics,1984,,-1
+Men,Distance Throw C2,Bronze,ECKSTEIN Raimund,FRG,,,Athletics,1984,,-1
+Men,Pentathlon 1A,Silver,KOEBERLE Heinrich,FRG,,,Athletics,1984,,-1
+Men,Pentathlon 1A,Bronze,LOBBERING H.,FRG,,,Athletics,1984,,-1
+Men,Pentathlon 1B,Gold,SCHMIDT P.,FRG,,,Athletics,1984,,-1
+Men,Pentathlon 1C,Gold,HENKER Siegmar,FRG,,,Athletics,1984,,-1
+Men,Pentathlon B1,Gold,JANCIC Miroslav,YUG,,,Athletics,1984,,-1
+Men,Pentathlon B3,Silver,HEGEHOLZ Siegmund,GDR,,,Athletics,1984,,-1
+Men,Pentathlon 2,Silver,NORTMANN Hermann,FRG,,,Athletics,1984,,-1
+Men,Pentathlon 3,Bronze,KULZER H.,FRG,,,Athletics,1984,,-1
+Men,Pentathlon 5,Bronze,WEIBERLE Eugen,FRG,,,Athletics,1984,,-1
+Women,20 m (Arm) C2,Silver,PIEPERREK Urusla,FRG,,,Athletics,1984,,-1
+Women,100 m A4,Gold,MOELLER Reinhild,FRG,,,Athletics,1984,,-1
+Women,100 m A6,Gold,BUDDELMEYER Petra,FRG,,,Athletics,1984,,-1
+Women,200 m C7,Bronze,SAEGER Anette,FRG,,,Athletics,1984,,-1
+Women,200 m 3,Bronze,BEYER G.,FRG,,,Athletics,1984,,-1
+Women,400 m A4,Gold,MOELLER Reinhild,FRG,,,Athletics,1984,,-1
+Women,400 m B1,Silver,OKIC Refija,YUG,,,Athletics,1984,,-1
+Women,400 m C7,Gold,SAEGER Anette,FRG,,,Athletics,1984,,-1
+Women,400 m C7,Bronze,SCHMID Susanne,FRG,,,Athletics,1984,,-1
+Women,400 m C8,Silver,NOLLER Henrike,FRG,,,Athletics,1984,,-1
+Women,400 m 3,Silver,BEYER G.,FRG,,,Athletics,1984,,-1
+Women,800 m B1,Bronze,ROSSMEIER Gabriele,FRG,,,Athletics,1984,,-1
+Women,800 m 3,Gold,BEYER G.,FRG,,,Athletics,1984,,-1
+Women,1500 m B1,Bronze,WITTJE Susanne,FRG,,,Athletics,1984,,-1
+Women,1500 m 3,Silver,BEYER G.,FRG,,,Athletics,1984,,-1
+Women,5000 m 3,Gold,BEYER G.,FRG,,,Athletics,1984,,-1
+Women,Marathon 3,Gold,BEYER G.,FRG,,,Athletics,1984,,-1
+Women,Cross Country 1000 m C6,Bronze,METZ Katrin,FRG,,,Athletics,1984,,-1
+Women,Cross Country 1000 m C7,Silver,SCHMID Susanne,FRG,,,Athletics,1984,,-1
+Women,Slalom C2,Bronze,PIEPERREK Ursula,FRG,,,Athletics,1984,,-1
+Women,Slalom 2,Silver,QUELL Margit,FRG,,,Athletics,1984,,-1
+Women,High Jump A6,Gold,BUDDELMEYER Petra,FRG,,,Athletics,1984,,-1
+Women,Long Jump A6,Gold,BUDDELMEYER Petra,FRG,,,Athletics,1984,,-1
+Women,Long Jump B1,Silver,BUSCHBECK Ursula,FRG,,,Athletics,1984,,-1
+Women,Long Jump C7,Gold,BOGIE Heike,FRG,,,Athletics,1984,,-1
+Women,Shot Put B1,Silver,BOHNING Ilse,FRG,,,Athletics,1984,,-1
+Women,Shot Put B1,Bronze,OTTO-LANGE Brigitte,FRG,,,Athletics,1984,,-1
+Women,Shot Put 3,Silver,MILINKOVIC Milka,YUG,,,Athletics,1984,,-1
+Women,Shot Put 3,Bronze,HAGENLOCHER Waltraud,FRG,,,Athletics,1984,,-1
+Women,Shot Put 4,Gold,BARTHEIEL M.,FRG,,,Athletics,1984,,-1
+Women,Shot Put 4,Bronze,LAPORNIK D.,YUG,,,Athletics,1984,,-1
+Women,Shot Put 5,Gold,MUNKER Elka,FRG,,,Athletics,1984,,-1
+Women,Discus Throw B1,Gold,OTTO-LANGE Brigitte,FRG,,,Athletics,1984,,-1
+Women,Discus Throw B1,Silver,GERSTENBERGER Rita,GDR,,,Athletics,1984,,-1
+Women,Discus Throw 3,Bronze,HAGENLOCHER Waltraud,FRG,,,Athletics,1984,,-1
+Women,Discus Throw 4,Bronze,BARTHEIEL M.,FRG,,,Athletics,1984,,-1
+Women,Discus Throw 5,Silver,MUNKER Elka,FRG,,,Athletics,1984,,-1
+Women,Javelin B1,Silver,BOHNING Ilse,FRG,,,Athletics,1984,,-1
+Women,Javelin B1,Bronze,GERSTENBERGER Rita,GDR,,,Athletics,1984,,-1
+Women,Javelin 2,Silver,QUELL Margit,FRG,,,Athletics,1984,,-1
+Women,Javelin 3,Gold,MILINKOVIC Milka,YUG,,,Athletics,1984,,-1
+Women,Javelin 5,Bronze,MUNKER Elka,FRG,,,Athletics,1984,,-1
+Women,Pentathlon 2,Bronze,QUELL Margit,FRG,,,Athletics,1984,,-1
+Women,Pentathlon 3,Silver,HAGENLOCHER Waltraud,FRG,,,Athletics,1984,,-1
+Women,Pentathlon 4,Bronze,BARTHEIEL M.,FRG,,,Athletics,1984,,-1
+Women,Pentathlon 5,Silver,MUNKER Elka,FRG,,,Athletics,1984,,-1
+Men,400 m B2,Silver,ODZAKOVIC Ramo,YUG,,,Athletics,1984,,-1
+Men,High Jump A3,Silver,AUNG Gyi,BIR,,,Athletics,1984,,-1
+Men,100 m 1A,Gold,LUBBERING Hans,FRG,,,Athletics,1988,,-1
+Men,100 m A5A7,Silver,BERGAMO Matthias,FRG,,,Athletics,1988,,-1
+Men,100 m B1,Gold,RIABOCHTAN Victor,URS,,,Athletics,1988,,-1
+Men,100 m B1,Silver,SEVASTIANOV Sergei,URS,,,Athletics,1988,,-1
+Men,100 m B2,Gold,MOKHIR Alexandre,URS,,,Athletics,1988,,-1
+Men,100 m B3,Silver,MEHLMANN Uwe,FRG,,,Athletics,1988,,-1
+Men,100 m 2,Gold,MARKLEIN Errol,FRG,,,Athletics,1988,,-1
+Men,100 m 3,Gold,FIGL Robert,FRG,,,Athletics,1988,,-1
+Men,200 m 1A,Gold,LUBBERING Hans,FRG,,,Athletics,1988,,-1
+Men,200 m 1A,Silver,OBERT Gunther,FRG,,,Athletics,1988,,-1
+Men,200 m A5A7,Silver,BERGAMO Matthias,FRG,,,Athletics,1988,,-1
+Men,200 m 2,Gold,MARKLEIN Errol,FRG,,,Athletics,1988,,-1
+Men,200 m 2,Silver,PETERSEN Wolfgang,FRG,,,Athletics,1988,,-1
+Men,200 m 3,Bronze,FIGL Robert,FRG,,,Athletics,1988,,-1
+Men,400 m 1A,Gold,OBERT Gunther,FRG,,,Athletics,1988,,-1
+Men,400 m 1A,Silver,LUBBERING Hans,FRG,,,Athletics,1988,,-1
+Men,400 m 1A,Bronze,KOEBERLE Heinrich,FRG,,,Athletics,1988,,-1
+Men,400 m A5A7,Bronze,ADZIC Slobodan,YUG,,,Athletics,1988,,-1
+Men,400 m B1,Gold,RIABOCHTAN Victor,URS,,,Athletics,1988,,-1
+Men,400 m B2,Bronze,POMYKALOV A.,URS,,,Athletics,1988,,-1
+Men,400 m 2,Gold,MARKLEIN Errol,FRG,,,Athletics,1988,,-1
+Men,400 m 3,Silver,FIGL Robert,FRG,,,Athletics,1988,,-1
+Men,800 m 1A,Gold,OBERT Gunther,FRG,,,Athletics,1988,,-1
+Men,800 m 1A,Silver,LUBBERING Hans,FRG,,,Athletics,1988,,-1
+Men,800 m 1A,Bronze,KOEBERLE Heinrich,FRG,,,Athletics,1988,,-1
+Men,800 m B2,Silver,POMYKALOV A.,URS,,,Athletics,1988,,-1
+Men,800 m B3,Silver,TIMERBOULATOV Farzat,URS,,,Athletics,1988,,-1
+Men,800 m 2,Bronze,PETERSEN Wolfgang,FRG,,,Athletics,1988,,-1
+Men,1500 m 1A,Gold,KOEBERLE Heinrich,FRG,,,Athletics,1988,,-1
+Men,1500 m 1A,Silver,OBERT Gunther,FRG,,,Athletics,1988,,-1
+Men,1500 m A6A8A9L4,Bronze,ADZIC Slobodan,YUG,,,Athletics,1988,,-1
+Men,1500 m B3,Silver,TIMERBOULATOV Farzat,URS,,,Athletics,1988,,-1
+Men,1500 m C7,Silver,KOCMUT Rudolf,YUG,,,Athletics,1988,,-1
+Men,1500 m 2,Bronze,PETERSEN Wolfgang,FRG,,,Athletics,1988,,-1
+Men,1500 m 3,Bronze,GOLOMBEK Gregor,FRG,,,Athletics,1988,,-1
+Men,5000 m 1A,Gold,KOEBERLE Heinrich,FRG,,,Athletics,1988,,-1
+Men,5000 m 1A,Silver,LUBBERING Hans,FRG,,,Athletics,1988,,-1
+Men,5000 m 1A,Bronze,OBERT Gunther,FRG,,,Athletics,1988,,-1
+Men,5000 m 1C,Silver,KASTNER Johann,FRG,,,Athletics,1988,,-1
+Men,5000 m A6A8A9L4,Bronze,ADZIC Slobodan,YUG,,,Athletics,1988,,-1
+Men,5000 m B2,Bronze,POMYKALOV A.,URS,,,Athletics,1988,,-1
+Men,5000 m 2,Gold,PETERSEN Wolfgang,FRG,,,Athletics,1988,,-1
+Men,5000 m 2,Bronze,MARKLEIN Errol,FRG,,,Athletics,1988,,-1
+Men,5000 m 3,Silver,GOLOMBEK Gregor,FRG,,,Athletics,1988,,-1
+Men,10000 m 2,Silver,PETERSEN Wolfgang,FRG,,,Athletics,1988,,-1
+Men,10000 m 3,Gold,GOLOMBEK Gregor,FRG,,,Athletics,1988,,-1
+Men,Marathon 1A,Gold,KOEBERLE Heinrich,FRG,,,Athletics,1988,,-1
+Men,Marathon 1C,Bronze,KASTNER Johann,FRG,,,Athletics,1988,,-1
+Men,Cross Country 5000 m C7,Silver,CARIUS Dieter,FRG,,,Athletics,1988,,-1
+Men,High Jump A2A9,Bronze,BELTIZ Gunther,FRG,,,Athletics,1988,,-1
+Men,High Jump A4A9,Bronze,JOHANN Jurgen,FRG,,,Athletics,1988,,-1
+Men,High Jump B2,Gold,KALMYKOV Vadim,URS,,,Athletics,1988,,-1
+Men,High Jump B2,Silver,ANTLITZ Norbert,FRG,,,Athletics,1988,,-1
+Men,High Jump B3,Gold,CHEPEL Oleg,URS,,,Athletics,1988,,-1
+Men,Long Jump B1,Bronze,RIABOCHTAN Victor,URS,,,Athletics,1988,,-1
+Men,Long Jump B2,Gold,KALMYKOV Vadim,URS,,,Athletics,1988,,-1
+Men,Long Jump B3,Gold,CHEPEL Oleg,URS,,,Athletics,1988,,-1
+Men,Long Jump B3,Silver,STRIEGEL Ulrich,FRG,,,Athletics,1988,,-1
+Men,Triple Jump B1,Silver,SEVASTIANOV Sergei,URS,,,Athletics,1988,,-1
+Men,Triple Jump B2,Gold,KALMYKOV Vadim,URS,,,Athletics,1988,,-1
+Men,Triple Jump B2,Bronze,PEHAR Ante,YUG,,,Athletics,1988,,-1
+Men,Triple Jump B3,Gold,STRIEGEL Ulrich,FRG,,,Athletics,1988,,-1
+Men,Shot Put 1A,Gold,WEBER Edund,FRG,,,Athletics,1988,,-1
+Men,Shot Put 1C,Silver,HENKER Siegmar,FRG,,,Athletics,1988,,-1
+Men,Shot Put A2A9,Gold,SIMONAZZI Roberto,FRG,,,Athletics,1988,,-1
+Men,Shot Put A3A9,Gold,BURSCHGENS Hubert,FRG,,,Athletics,1988,,-1
+Men,Shot Put A6A8A9L6,Bronze,NUSS Thomas,FRG,,,Athletics,1988,,-1
+Men,Shot Put C3,Bronze,SPANGLER Walter,FRG,,,Athletics,1988,,-1
+Men,Shot Put C6,Silver,BOHLANDER Heinz,FRG,,,Athletics,1988,,-1
+Men,Shot Put L4,Gold,HERMANN Peter,FRG,,,Athletics,1988,,-1
+Men,Shot Put L5,Gold,MIMBERG Dirk,FRG,,,Athletics,1988,,-1
+Men,Shot Put L5,Silver,GUHL Rainer,FRG,,,Athletics,1988,,-1
+Men,Discus Throw 1A,Gold,WEBER Edund,FRG,,,Athletics,1988,,-1
+Men,Discus Throw 1C,Silver,HENKER Siegmar,FRG,,,Athletics,1988,,-1
+Men,Discus Throw A2A9,Silver,SIMONAZZI Roberto,FRG,,,Athletics,1988,,-1
+Men,Discus Throw A3A9,Bronze,BURSCHGENS Hubert,FRG,,,Athletics,1988,,-1
+Men,Discus Throw A4A9,Silver,JOSEFLAK Hans,FRG,,,Athletics,1988,,-1
+Men,Discus Throw A6A8A9L6,Silver,NUSS Thomas,FRG,,,Athletics,1988,,-1
+Men,Discus Throw C3,Silver,SPANGLER Walter,FRG,,,Athletics,1988,,-1
+Men,Discus Throw C3,Bronze,DERETA Zeljko,YUG,,,Athletics,1988,,-1
+Men,Javelin 1C,Silver,HENKER Siegmar,FRG,,,Athletics,1988,,-1
+Men,Javelin 1C,Bronze,NIKOLIC Milorad,YUG,,,Athletics,1988,,-1
+Men,Javelin A2A9,Silver,SIMONAZZI Roberto,FRG,,,Athletics,1988,,-1
+Men,Javelin A3A9,Gold,BURSCHGENS Hubert,FRG,,,Athletics,1988,,-1
+Men,Javelin B1,Gold,GUIRNUS Vitautas,URS,,,Athletics,1988,,-1
+Men,Javelin B2,Gold,MOKHIR Alexandre,URS,,,Athletics,1988,,-1
+Men,Javelin B3,Bronze,KOLYVANOV Andrei,URS,,,Athletics,1988,,-1
+Men,Javelin C5,Bronze,QUICKERT Michael,FRG,,,Athletics,1988,,-1
+Men,Javelin C6,Bronze,KRIEGER Stefan,FRG,,,Athletics,1988,,-1
+Men,Javelin L5,Gold,MIMBERG Dirk,FRG,,,Athletics,1988,,-1
+Men,Javelin 2,Bronze,NORTMANN Hermann,FRG,,,Athletics,1988,,-1
+Men,Javelin 3,Bronze,PETERNELJ Marjan,YUG,,,Athletics,1988,,-1
+Men,Javelin 4,Bronze,SCHUHBAUER Johann,FRG,,,Athletics,1988,,-1
+Men,Club Throw 1A,Gold,WEBER Edund,FRG,,,Athletics,1988,,-1
+Men,Club Throw C5,Bronze,QUICKERT Michael,FRG,,,Athletics,1988,,-1
+Men,Pentathlon 1C,Gold,HENKER Siegmar,FRG,,,Athletics,1988,,-1
+Men,Pentathlon B1,Gold,GUIRNUS Vitautas,URS,,,Athletics,1988,,-1
+Men,Pentathlon B1,Silver,SEVASTIANOV Sergei,URS,,,Athletics,1988,,-1
+Men,Pentathlon B2,Gold,KALMYKOV Vadim,URS,,,Athletics,1988,,-1
+Men,Pentathlon B2,Silver,MOKHIR Alexandre,URS,,,Athletics,1988,,-1
+Men,Pentathlon B3,Gold,CHEPEL Oleg,URS,,,Athletics,1988,,-1
+Men,Pentathlon 2,Gold,NORTMANN Hermann,FRG,,,Athletics,1988,,-1
+Men,Pentathlon 3,Gold,WEIDKAMP Peter,FRG,,,Athletics,1988,,-1
+Men,Pentathlon 4,Bronze,SCHUHBAUER Johann,FRG,,,Athletics,1988,,-1
+Men,Pentathlon 5,Silver,WEIBERLE Eugen,FRG,,,Athletics,1988,,-1
+Women,100 m 1C,Silver,HANSEN Yolande,FRG,,,Athletics,1988,,-1
+Women,100 m A4A9,Silver,MOELLER Reinhild,FRG,,,Athletics,1988,,-1
+Women,100 m A6A8A9L4,Gold,BUDDELMEYER Petra,FRG,,,Athletics,1988,,-1
+Women,100 m A6A8A9L4,Silver,SACHSE Jessica,FRG,,,Athletics,1988,,-1
+Women,100 m B2,Gold,JOURAVLIOVA Raissa,URS,,,Athletics,1988,,-1
+Women,100 m B2,Bronze,BATALOVA Rimma,URS,,,Athletics,1988,,-1
+Women,200 m 1C,Silver,HANSEN Yolande,FRG,,,Athletics,1988,,-1
+Women,200 m A4A9,Gold,MOELLER Reinhild,FRG,,,Athletics,1988,,-1
+Women,200 m A6A8A9L4,Gold,BUDDELMEYER Petra,FRG,,,Athletics,1988,,-1
+Women,200 m A6A8A9L4,Silver,SACHSE Jessica,FRG,,,Athletics,1988,,-1
+Women,200 m C8,Bronze,SAEGER Annette,FRG,,,Athletics,1988,,-1
+Women,400 m 1C,Silver,HANSEN Yolande,FRG,,,Athletics,1988,,-1
+Women,400 m A6A8A9L4,Gold,BUDDELMEYER Petra,FRG,,,Athletics,1988,,-1
+Women,400 m A6A8A9L4,Bronze,SACHSE Jessica,FRG,,,Athletics,1988,,-1
+Women,400 m B1,Gold,PANKOVA Tamara,URS,,,Athletics,1988,,-1
+Women,400 m B2,Gold,BATALOVA Rimma,URS,,,Athletics,1988,,-1
+Women,400 m B3,Bronze,CHMIDEK Danute,URS,,,Athletics,1988,,-1
+Women,400 m C8,Bronze,SAEGER Annette,FRG,,,Athletics,1988,,-1
+Women,800 m 1C,Bronze,HANSEN Yolande,FRG,,,Athletics,1988,,-1
+Women,800 m B1,Gold,PANKOVA Tamara,URS,,,Athletics,1988,,-1
+Women,800 m B1,Bronze,OKIC Refija,YUG,,,Athletics,1988,,-1
+Women,800 m B2,Gold,BATALOVA Rimma,URS,,,Athletics,1988,,-1
+Women,800 m B3,Silver,CHMIDEK Danute,URS,,,Athletics,1988,,-1
+Women,800 m C8,Bronze,SAEGER Annette,FRG,,,Athletics,1988,,-1
+Women,1500 m 1C,Gold,HANSEN Yolande,FRG,,,Athletics,1988,,-1
+Women,1500 m B1,Gold,PANKOVA Tamara,URS,,,Athletics,1988,,-1
+Women,1500 m B1,Bronze,OKIC Refija,YUG,,,Athletics,1988,,-1
+Women,1500 m 2,Gold,QUELL Margit,FRG,,,Athletics,1988,,-1
+Women,5000 m 2,Gold,QUELL Margit,FRG,,,Athletics,1988,,-1
+Women,10000 m 2,Gold,QUELL Margit,FRG,,,Athletics,1988,,-1
+Women,Long Jump B2,Gold,JOURAVLIOVA Raissa,URS,,,Athletics,1988,,-1
+Women,Shot Put B2,Gold,VUKSANOVIC Nada,YUG,,,Athletics,1988,,-1
+Women,Shot Put C4,Silver,WILLMS Martina,FRG,,,Athletics,1988,,-1
+Women,Shot Put 4,Gold,MILINKOVIC Milka,YUG,,,Athletics,1988,,-1
+Women,Shot Put 5,Silver,MUNKER Elka,FRG,,,Athletics,1988,,-1
+Women,Discus Throw A6A8A9L6,Gold,JAENICKE Britta,FRG,,,Athletics,1988,,-1
+Women,Discus Throw A6A8A9L6,Bronze,ZIELONKA Barbel,FRG,,,Athletics,1988,,-1
+Women,Discus Throw B2,Gold,VUKSANOVIC Nada,YUG,,,Athletics,1988,,-1
+Women,Discus Throw B2,Silver,JOURAVLIOVA Raissa,URS,,,Athletics,1988,,-1
+Women,Discus Throw 5,Gold,MUNKER Elka,FRG,,,Athletics,1988,,-1
+Women,Javelin A6A8A9L6,Gold,JAENICKE Britta,FRG,,,Athletics,1988,,-1
+Women,Javelin A6A8A9L6,Bronze,SACHSE Jessica,FRG,,,Athletics,1988,,-1
+Women,Javelin B1,Gold,OTTO-LANGE Brigitte,FRG,,,Athletics,1988,,-1
+Women,Javelin B2,Silver,MADLER Heike,FRG,,,Athletics,1988,,-1
+Women,Javelin 5,Bronze,MUNKER Elka,FRG,,,Athletics,1988,,-1
+Women,Pentathlon B2,Gold,JOURAVLIOVA Raissa,URS,,,Athletics,1988,,-1
+Men,4x100 m 2-6,Gold,FIGL Robert,FRG,FR Germany,1.0,Athletics,1988,,-1
+Men,4x100 m 2-6,Gold,GOLOMBEK Gregor,FRG,FR Germany,2.0,Athletics,1988,,-1
+Men,4x100 m 2-6,Gold,MARKLEIN Errol,FRG,FR Germany,3.0,Athletics,1988,,-1
+Men,4x100 m 2-6,Gold,PETERSEN Wolfgang,FRG,FR Germany,4.0,Athletics,1988,,-1
+Men,4x200 m 2-6,Gold,FIGL Robert,FRG,FR Germany,1.0,Athletics,1988,,-1
+Men,4x200 m 2-6,Gold,GOLOMBEK Gregor,FRG,FR Germany,2.0,Athletics,1988,,-1
+Men,4x200 m 2-6,Gold,MARKLEIN Errol,FRG,FR Germany,3.0,Athletics,1988,,-1
+Men,4x200 m 2-6,Gold,PETERSEN Wolfgang,FRG,FR Germany,4.0,Athletics,1988,,-1
+Men,4x400 m A2A4-7,Bronze,BERG Matthias,FRG,FR Germany,1.0,Athletics,1988,,-1
+Men,4x400 m A2A4-7,Bronze,BUCHIN Max,FRG,FR Germany,2.0,Athletics,1988,,-1
+Men,4x400 m A2A4-7,Bronze,HECKER Axel,FRG,FR Germany,3.0,Athletics,1988,,-1
+Men,4x400 m A2A4-7,Bronze,JOHANN Jurgen,FRG,FR Germany,4.0,Athletics,1988,,-1
+Men,4x400 m 2-6,Gold,FIGL Robert,FRG,FR Germany,1.0,Athletics,1988,,-1
+Men,4x400 m 2-6,Gold,GOLOMBEK Gregor,FRG,FR Germany,2.0,Athletics,1988,,-1
+Men,4x400 m 2-6,Gold,PETERSEN Wolfgang,FRG,FR Germany,3.0,Athletics,1988,,-1
+Men,4x400 m 2-6,Gold,WINFRIED Sigg,FRG,FR Germany,4.0,Athletics,1988,,-1
+Men,100 m B1,Gold,SEVASTIANOV Sergei,EUN,,,Athletics,1992,,-1
+Men,400 m B3,Gold,CHEPEL Oleg,EUN,,,Athletics,1992,,-1
+Men,800 m TS4,Bronze,SILCHENCO Sergey,EUN,,,Athletics,1992,,-1
+Men,1500 m TS4,Silver,SILCHENCO Sergey,EUN,,,Athletics,1992,,-1
+Men,10000 m TS4,Bronze,SILCHENCO Sergey,EUN,,,Athletics,1992,,-1
+Men,Marathon B3,Silver,SLUKA Anton,TCH,,,Athletics,1992,,-1
+Men,Triple Jump B1,Silver,SEVASTIANOV Sergei,EUN,,,Athletics,1992,,-1
+Men,Triple Jump B2,Silver,LASHMANOV Aleksei,EUN,,,Athletics,1992,,-1
+Men,Shot Put THS2,Bronze,KHILMONCHYK Viktar,EUN,,,Athletics,1992,,-1
+Men,Shot Put THW3,Silver,POTAPENKO Vladimir,EUN,,,Athletics,1992,,-1
+Men,Shot Put B2,Silver,KHODAKOV Sergei,EUN,,,Athletics,1992,,-1
+Men,Discus Throw THS4,Bronze,LEIPERT Dusan,TCH,,,Athletics,1992,,-1
+Men,Discus Throw B2,Gold,KHODAKOV Sergei,EUN,,,Athletics,1992,,-1
+Men,Javelin THW3,Bronze,POTAPENKO Vladimir,EUN,,,Athletics,1992,,-1
+Men,Javelin THW4,Bronze,BOGDAN Stefan,TCH,,,Athletics,1992,,-1
+Men,Javelin B2,Silver,KHODAKOV Sergei,EUN,,,Athletics,1992,,-1
+Men,Pentathlon PW3-4,Gold,VASICEK Vojtech,TCH,,,Athletics,1992,,-1
+Men,Pentathlon B1,Gold,SEVASTIANOV Sergei,EUN,,,Athletics,1992,,-1
+Men,Pentathlon B2,Bronze,GODRI Frantisek,TCH,,,Athletics,1992,,-1
+Women,100 m TS4,Bronze,LEONTIOUK Irina,EUN,,,Athletics,1992,,-1
+Women,100 m B2,Silver,BATALOVA Rimma,EUN,,,Athletics,1992,,-1
+Women,100 m B3,Silver,CHURKINA Olga,EUN,,,Athletics,1992,,-1
+Women,200 m TS4,Silver,MALAKHOVA Ljubov,EUN,,,Athletics,1992,,-1
+Women,200 m TS4,Bronze,LEONTIOUK Irina,EUN,,,Athletics,1992,,-1
+Women,200 m B2,Gold,BATALOVA Rimma,EUN,,,Athletics,1992,,-1
+Women,200 m B3,Silver,CHURKINA Olga,EUN,,,Athletics,1992,,-1
+Women,400 m B2,Gold,BATALOVA Rimma,EUN,,,Athletics,1992,,-1
+Women,400 m B3,Bronze,CHURKINA Olga,EUN,,,Athletics,1992,,-1
+Women,800 m B1,Bronze,VALNICKOVA Pavla,TCH,,,Athletics,1992,,-1
+Women,800 m B2,Gold,BATALOVA Rimma,EUN,,,Athletics,1992,,-1
+Women,1500 m B1,Gold,VALNICKOVA Pavla,TCH,,,Athletics,1992,,-1
+Women,1500 m B2,Gold,BATALOVA Rimma,EUN,,,Athletics,1992,,-1
+Women,3000 m B1,Gold,VALNICKOVA Pavla,TCH,,,Athletics,1992,,-1
+Women,Long Jump B2,Gold,ZHURAVLEVA Raisa,EUN,,,Athletics,1992,,-1
+Women,Long Jump B3,Bronze,ZEMANOVA Pavla,TCH,,,Athletics,1992,,-1
+Women,Shot Put B2,Silver,VUKSANOVIC Nada,IPP,,,Athletics,1992,,-1
+Women,Discus Throw THW4,Gold,BEHALOVA Miloslava,TCH,,,Athletics,1992,,-1
+Women,Discus Throw THW5,Silver,JIRASKOVA Vera,TCH,,,Athletics,1992,,-1
+Women,Discus Throw B2,Gold,VUKSANOVIC Nada,IPP,,,Athletics,1992,,-1
+Women,Discus Throw B3,Gold,SIVAKOVA Tamara,EUN,,,Athletics,1992,,-1
+Women,Pentathlon B3,Gold,ZHURAVLEVA Raisa,EUN,,,Athletics,1992,,-1
+Men,Javelin F12,Bronze,GRLICA Milos,SCG,,,Athletics,2004,,-1
+Women,Tournament,Silver,BREUER Rita,FRG,FR Germany,1.0,Basketball,1988,,-1
+Women,Tournament,Silver,BROECKERHOFF Liesel,FRG,FR Germany,2.0,Basketball,1988,,-1
+Women,Tournament,Silver,GERSTMEIER Angelika,FRG,FR Germany,3.0,Basketball,1988,,-1
+Women,Tournament,Silver,KIRSTE Heidi,FRG,FR Germany,4.0,Basketball,1988,,-1
+Women,Tournament,Silver,LAUX Rita,FRG,FR Germany,5.0,Basketball,1988,,-1
+Women,Tournament,Silver,RICHTER Michaela,FRG,FR Germany,6.0,Basketball,1988,,-1
+Women,Tournament,Silver,SAGGAU Jutta,FRG,FR Germany,7.0,Basketball,1988,,-1
+Women,Tournament,Silver,TSCHOETSCHEL Martina,FRG,FR Germany,8.0,Basketball,1988,,-1
+Women,Tournament,Silver,TUNA Britt,FRG,FR Germany,9.0,Basketball,1988,,-1
+Women,Tournament,Silver,WATZ Bettina,FRG,FR Germany,10.0,Basketball,1988,,-1
+Men,Epee Individual 4-5,Silver,LEICHT Dieter,FRG,,,Fencing,1980,,-1
+Men,Foil Individual 2-3,Gold,BOHM Hans-Joachim,FRG,,,Fencing,1980,,-1
+Men,Foil Individual 4-5,Silver,REICH,FRG,,,Fencing,1980,,-1
+Men,Sabre Individual 2-3,Bronze,BOHM Hans-Joachim,FRG,,,Fencing,1980,,-1
+Mixed,Foil Individual 1C,Gold,SPIESS Guenter,FRG,,,Fencing,1980,,-1
+Men,Epee Individual 2-3,Silver,BOHM Hans-Joachim,FRG,,,Fencing,1984,,-1
+Men,Epee Individual 4-5,Gold,LIPINSKI Wilfried,FRG,,,Fencing,1984,,-1
+Men,Foil Individual 2-3,Silver,BOHM Hans-Joachim,FRG,,,Fencing,1984,,-1
+Men,Foil Individual 1C,Gold,SPIESS Guenter,FRG,,,Fencing,1984,,-1
+Men,Epee Individual 4-6,Bronze,LIPINSKI Wilfried,FRG,,,Fencing,1988,,-1
+Men,Foil Individual 4-6,Silver,KEMPF Wolfgang,FRG,,,Fencing,1988,,-1
+Men,Epee Team,Gold,BARTMANN Uwe,FRG,FR Germany,1.0,Fencing,1988,,-1
+Men,Epee Team,Gold,LEICHT Dieter,FRG,FR Germany,2.0,Fencing,1988,,-1
+Men,Epee Team,Gold,LIPINSKI Wilfried,FRG,FR Germany,3.0,Fencing,1988,,-1
+Men,Foil Team,Silver,KEMPF Wolfgang,FRG,FR Germany,1.0,Fencing,1988,,-1
+Men,Foil Team,Silver,LEICHT Dieter,FRG,FR Germany,2.0,Fencing,1988,,-1
+Men,Foil Team,Silver,SPIESS Guenter,FRG,FR Germany,3.0,Fencing,1988,,-1
+Men,Sabre Team,Silver,KEMPF Wolfgang,FRG,FR Germany,1.0,Fencing,1988,,-1
+Men,Sabre Team,Silver,LIPINSKI Wilfried,FRG,FR Germany,2.0,Fencing,1988,,-1
+Men,Sabre Team,Silver,MAUS Reinhold,FRG,FR Germany,3.0,Fencing,1988,,-1
+Men,Sabre Team,Silver,SPIESS Guenter,FRG,FR Germany,4.0,Fencing,1988,,-1
+Men,25 m Freestyle 1A,Bronze,TIETZE H.,FRG,,,Swimming,1980,,-1
+Men,25 m Freestyle 1C,Silver,EMMEL Manfred,FRG,,,Swimming,1980,,-1
+Men,50 m Freestyle E1,Silver,MIKELIN Roko,YUG,,,Swimming,1980,,-1
+Men,50 m Freestyle E1,Bronze,ZABEV Vangel,YUG,,,Swimming,1980,,-1
+Men,50 m Freestyle F,Gold,SCHROEDER Karl,FRG,,,Swimming,1980,,-1
+Men,100 m Freestyle 6,Bronze,GATTINGER G.,FRG,,,Swimming,1980,,-1
+Men,50 m Backstroke E1,Silver,MIKELIN Roko,YUG,,,Swimming,1980,,-1
+Men,50 m Backstroke F,Gold,SCHROEDER Karl,FRG,,,Swimming,1980,,-1
+Men,50 m Backstroke F1,Silver,SCHARMENTKE R.,FRG,,,Swimming,1980,,-1
+Men,50 m Backstroke F1,Bronze,BRAND Andreas,FRG,,,Swimming,1980,,-1
+Men,100 m Backstroke 6,Silver,GATTINGER G.,FRG,,,Swimming,1980,,-1
+Men,25 m Breaststroke 1A,Silver,TIETZE H.,FRG,,,Swimming,1980,,-1
+Men,25 m Breaststroke 1C,Bronze,HENKER Siegmar,FRG,,,Swimming,1980,,-1
+Men,50 m Breaststroke E1,Silver,KAMPKA K.,FRG,,,Swimming,1980,,-1
+Men,50 m Breaststroke E1,Bronze,MIKELIN Roko,YUG,,,Swimming,1980,,-1
+Men,50 m Breaststroke F,Bronze,PETEREIT K.,FRG,,,Swimming,1980,,-1
+Men,50 m Breaststroke F1,Gold,SCHARMENTKE R.,FRG,,,Swimming,1980,,-1
+Men,50 m Breaststroke F1,Silver,BRAND Andreas,FRG,,,Swimming,1980,,-1
+Men,100 m Breaststroke D,Bronze,WECKER W.,FRG,,,Swimming,1980,,-1
+Men,100 m Breaststroke D1,Gold,BANFI Jozef,YUG,,,Swimming,1980,,-1
+Men,100 m Breaststroke D1,Bronze,GORIS Wolfgang,FRG,,,Swimming,1980,,-1
+Men,100 m Butterfly D,Silver,GRONSKY Roman,TCH,,,Swimming,1980,,-1
+Men,100 m Butterfly E,Bronze,SCHWEITZER G.,FRG,,,Swimming,1980,,-1
+Men,100 m Butterfly 6,Silver,GATTINGER G.,FRG,,,Swimming,1980,,-1
+Men,2x25 m Individual Medley F1,Silver,BRAND Andreas,FRG,,,Swimming,1980,,-1
+Men,3x50 m Individual Medley D1,Gold,BANFI Jozef,YUG,,,Swimming,1980,,-1
+Men,3x50 m Individual Medley D1,Silver,GORIS Wolfgang,FRG,,,Swimming,1980,,-1
+Men,3x50 m Individual Medley E1,Silver,MIKELIN Roko,YUG,,,Swimming,1980,,-1
+Men,3x50 m Individual Medley E1,Bronze,ZABEV Vangel,YUG,,,Swimming,1980,,-1
+Men,3x50 m Individual Medley F,Gold,SCHROEDER Karl,FRG,,,Swimming,1980,,-1
+Men,3x50 m Individual Medley F,Bronze,PETEREIT K.,FRG,,,Swimming,1980,,-1
+Men,3x25 m Freestyle Relay 1A-1C,Gold,FR Germany,FRG,,,Swimming,1980,,-1
+Men,3x50 m Freestyle Relay E-F,Gold,FR Germany,FRG,,,Swimming,1980,,-1
+Men,3x50 m Freestyle Relay E1-F1,Gold,FR Germany,FRG,,,Swimming,1980,,-1
+Women,50 m Freestyle 2,Silver,WEBER D.,FRG,,,Swimming,1980,,-1
+Women,100 m Freestyle C-D,Bronze,GESIERICH Karen,FRG,,,Swimming,1980,,-1
+Women,100 m Freestyle 5,Gold,SWANEPOEL C.,FRG,,,Swimming,1980,,-1
+Women,50 m Backstroke F1,Gold,SIEVERT U.,FRG,,,Swimming,1980,,-1
+Women,50 m Backstroke 2,Silver,WEBER D.,FRG,,,Swimming,1980,,-1
+Women,100 m Backstroke 5,Gold,SWANEPOEL C.,FRG,,,Swimming,1980,,-1
+Women,50 m Breaststroke F1,Gold,SCHAD Petra,FRG,,,Swimming,1980,,-1
+Women,50 m Breaststroke F1,Silver,SIEVERT U.,FRG,,,Swimming,1980,,-1
+Women,50 m Breaststroke 2,Gold,QUELL Margit,FRG,,,Swimming,1980,,-1
+Women,50 m Breaststroke 2,Silver,WEBER D.,FRG,,,Swimming,1980,,-1
+Women,100 m Breaststroke 5,Gold,SWANEPOEL C.,FRG,,,Swimming,1980,,-1
+Women,25 m Butterfly 2,Gold,WEBER D.,FRG,,,Swimming,1980,,-1
+Women,50 m Butterfly 5,Gold,SWANEPOEL C.,FRG,,,Swimming,1980,,-1
+Women,3x25 m Individual Medley 2,Silver,WEBER D.,FRG,,,Swimming,1980,,-1
+Women,2x50 m Individual Medley F1,Gold,SCHAD Petra,FRG,,,Swimming,1980,,-1
+Women,2x50 m Individual Medley F1,Silver,SIEVERT U.,FRG,,,Swimming,1980,,-1
+Men,25 m Freestyle 1A,Silver,TIETZE H.,FRG,,,Swimming,1984,,-1
+Men,50 m Freestyle C3,Silver,WEBER Martin,FRG,,,Swimming,1984,,-1
+Men,50 m Freestyle C8,Gold,SCHNITZER Markus,FRG,,,Swimming,1984,,-1
+Men,100 m Freestyle A1,Silver,GORIS Wolfgang,FRG,,,Swimming,1984,,-1
+Men,100 m Freestyle A2,Gold,RUBNER Bernd,FRG,,,Swimming,1984,,-1
+Men,100 m Freestyle A2,Silver,GRUBER Holger,FRG,,,Swimming,1984,,-1
+Men,100 m Freestyle A5,Bronze,BRAND Andreas,FRG,,,Swimming,1984,,-1
+Men,100 m Freestyle A6,Gold,SCHROEDER Karl,FRG,,,Swimming,1984,,-1
+Men,100 m Freestyle A7,Silver,BARNBECK Heinz,FRG,,,Swimming,1984,,-1
+Men,100 m Freestyle A9,Bronze,MIKELIN Roko,YUG,,,Swimming,1984,,-1
+Men,100 m Freestyle B3,Gold,OTHMAR Carsten,FRG,,,Swimming,1984,,-1
+Men,100 m Freestyle C8,Silver,SCHNITZER Markus,FRG,,,Swimming,1984,,-1
+Men,100 m Freestyle L6,Silver,DURCHDEWALD Dieter,FRG,,,Swimming,1984,,-1
+Men,100 m Freestyle 4,Bronze,WIEDEMAN P.,FRG,,,Swimming,1984,,-1
+Men,400 m Freestyle A2,Gold,RUBNER Bernd,FRG,,,Swimming,1984,,-1
+Men,400 m Freestyle B3,Gold,OTHMAR Carsten,FRG,,,Swimming,1984,,-1
+Men,25 m Backstroke 1A,Bronze,TIETZE H.,FRG,,,Swimming,1984,,-1
+Men,25 m Backstroke C3,Silver,WEBER Martin,FRG,,,Swimming,1984,,-1
+Men,50 m Backstroke A5,Silver,BRAND Andreas,FRG,,,Swimming,1984,,-1
+Men,50 m Backstroke A9,Bronze,MIKELIN Roko,YUG,,,Swimming,1984,,-1
+Men,50 m Backstroke C5,Bronze,QUICKERT Michael,FRG,,,Swimming,1984,,-1
+Men,100 m Backstroke A1,Silver,BANFI Jozef,YUG,,,Swimming,1984,,-1
+Men,100 m Backstroke A1,Bronze,GORIS Wolfgang,FRG,,,Swimming,1984,,-1
+Men,100 m Backstroke A2,Gold,RUBNER Bernd,FRG,,,Swimming,1984,,-1
+Men,100 m Backstroke A6,Gold,SCHROEDER Karl,FRG,,,Swimming,1984,,-1
+Men,100 m Backstroke A7,Gold,BARNBECK Heinz,FRG,,,Swimming,1984,,-1
+Men,100 m Backstroke B3,Gold,OTHMAR Carsten,FRG,,,Swimming,1984,,-1
+Men,100 m Backstroke C8,Gold,SCHNITZER Markus,FRG,,,Swimming,1984,,-1
+Men,100 m Backstroke L4,Silver,LAPP Michael,FRG,,,Swimming,1984,,-1
+Men,100 m Backstroke L5,Silver,WOELK Holger,FRG,,,Swimming,1984,,-1
+Men,25 m Breaststroke 1A,Silver,TIETZE H.,FRG,,,Swimming,1984,,-1
+Men,50 m Breaststroke A5,Bronze,BRAND Andreas,FRG,,,Swimming,1984,,-1
+Men,50 m Breaststroke 2,Silver,SIGG Winfried,FRG,,,Swimming,1984,,-1
+Men,100 m Breaststroke A1,Silver,GORIS Wolfgang,FRG,,,Swimming,1984,,-1
+Men,100 m Breaststroke A1,Bronze,BANFI Jozef,YUG,,,Swimming,1984,,-1
+Men,100 m Breaststroke A6,Gold,SCHROEDER Karl,FRG,,,Swimming,1984,,-1
+Men,100 m Breaststroke B3,Bronze,OTHMAR Carsten,FRG,,,Swimming,1984,,-1
+Men,100 m Breaststroke C8,Bronze,SCHNITZER Markus,FRG,,,Swimming,1984,,-1
+Men,100 m Breaststroke L4,Bronze,LAPP Michael,FRG,,,Swimming,1984,,-1
+Men,100 m Breaststroke 4,Gold,WIEDEMAN P.,FRG,,,Swimming,1984,,-1
+Men,25 m Butterfly 1B,Silver,TIETZE H.,FRG,,,Swimming,1984,,-1
+Men,50 m Butterfly 4,Bronze,WIEDEMAN P.,FRG,,,Swimming,1984,,-1
+Men,100 m Butterfly A1,Silver,GORIS Wolfgang,FRG,,,Swimming,1984,,-1
+Men,100 m Butterfly L6,Bronze,DURCHDEWALD Dieter,FRG,,,Swimming,1984,,-1
+Men,150 m Individual Medley A5,Bronze,BRAND Andreas,FRG,,,Swimming,1984,,-1
+Men,200 m Individual Medley A1,Silver,GORIS Wolfgang,FRG,,,Swimming,1984,,-1
+Men,200 m Individual Medley A6,Gold,SCHROEDER Karl,FRG,,,Swimming,1984,,-1
+Men,200 m Individual Medley A7,Silver,BARNBECK Heinz,FRG,,,Swimming,1984,,-1
+Men,200 m Individual Medley B3,Silver,OTHMAR Carsten,FRG,,,Swimming,1984,,-1
+Men,3x25 m Freestyle Relay 1A-1C,Gold,FR Germany,FRG,,,Swimming,1984,,-1
+Women,50 m Freestyle L3,Silver,SCHAD Petra,FRG,,,Swimming,1984,,-1
+Women,50 m Freestyle 2,Bronze,WEBER D.,FRG,,,Swimming,1984,,-1
+Women,100 m Freestyle 1B,Gold,BONISCH S.,FRG,,,Swimming,1984,,-1
+Women,100 m Freestyle A1,Gold,SIEGERS Britta,FRG,,,Swimming,1984,,-1
+Women,100 m Freestyle A2,Silver,GESIERICH Karen,FRG,,,Swimming,1984,,-1
+Women,100 m Freestyle L5,Bronze,GALICIC Brigita,YUG,,,Swimming,1984,,-1
+Women,200 m Freestyle 2,Bronze,WEBER D.,FRG,,,Swimming,1984,,-1
+Women,400 m Freestyle A2,Silver,GESIERICH Karen,FRG,,,Swimming,1984,,-1
+Women,25 m Backstroke 1B,Gold,BONISCH S.,FRG,,,Swimming,1984,,-1
+Women,50 m Backstroke L3,Gold,SCHAD Petra,FRG,,,Swimming,1984,,-1
+Women,50 m Backstroke 2,Bronze,WEBER D.,FRG,,,Swimming,1984,,-1
+Women,100 m Backstroke A1,Gold,SIEGERS Britta,FRG,,,Swimming,1984,,-1
+Women,100 m Backstroke A2,Gold,GESIERICH Karen,FRG,,,Swimming,1984,,-1
+Women,25 m Breaststroke 1B,Silver,BONISCH S.,FRG,,,Swimming,1984,,-1
+Women,50 m Breaststroke 2,Gold,QUELL Margit,FRG,,,Swimming,1984,,-1
+Women,50 m Breaststroke 2,Silver,WEBER D.,FRG,,,Swimming,1984,,-1
+Women,100 m Breaststroke A1,Silver,SIEGERS Britta,FRG,,,Swimming,1984,,-1
+Women,25 m Butterfly 2,Bronze,WEBER D.,FRG,,,Swimming,1984,,-1
+Women,200 m Individual Medley A2,Silver,GESIERICH Karen,FRG,,,Swimming,1984,,-1
+Men,50 m Freestyle 1B,Silver,HAUSLEITNER Gerhard,FRG,,,Swimming,1988,,-1
+Men,50 m Freestyle B1,Silver,CHER Oleg,URS,,,Swimming,1988,,-1
+Men,50 m Freestyle B2,Bronze,KAPITONOV Mikhail,URS,,,Swimming,1988,,-1
+Men,100 m Freestyle 1B,Bronze,HAUSLEITNER Gerhard,FRG,,,Swimming,1988,,-1
+Men,100 m Freestyle A7,Gold,BARNBECK Heinz,FRG,,,Swimming,1988,,-1
+Men,100 m Freestyle B1,Silver,CHER Oleg,URS,,,Swimming,1988,,-1
+Men,100 m Freestyle C5,Bronze,QUICKERT Michael,FRG,,,Swimming,1988,,-1
+Men,100 m Freestyle C8,Gold,KLINGER Thomas,FRG,,,Swimming,1988,,-1
+Men,100 m Freestyle L3,Silver,PAVLINEC Danijel,YUG,,,Swimming,1988,,-1
+Men,100 m Freestyle L5,Gold,WOELK Holger,FRG,,,Swimming,1988,,-1
+Men,100 m Freestyle L6,Bronze,HAHNENGRESS Jochen,FRG,,,Swimming,1988,,-1
+Men,200 m Freestyle C5,Bronze,QUICKERT Michael,FRG,,,Swimming,1988,,-1
+Men,200 m Freestyle C8,Silver,KLINGER Thomas,FRG,,,Swimming,1988,,-1
+Men,200 m Freestyle L3,Bronze,PAVLINEC Danijel,YUG,,,Swimming,1988,,-1
+Men,400 m Freestyle B1,Bronze,CHER Oleg,URS,,,Swimming,1988,,-1
+Men,400 m Freestyle C5,Silver,QUICKERT Michael,FRG,,,Swimming,1988,,-1
+Men,400 m Freestyle C8,Silver,KLINGER Thomas,FRG,,,Swimming,1988,,-1
+Men,400 m Freestyle L4,Silver,LAPP Michael,FRG,,,Swimming,1988,,-1
+Men,400 m Freestyle L5,Gold,WOELK Holger,FRG,,,Swimming,1988,,-1
+Men,25 m Backstroke 1B,Bronze,HAUSLEITNER Gerhard,FRG,,,Swimming,1988,,-1
+Men,100 m Backstroke A7,Gold,BARNBECK Heinz,FRG,,,Swimming,1988,,-1
+Men,100 m Backstroke A7,Bronze,MIKELIN Roko,YUG,,,Swimming,1988,,-1
+Men,100 m Backstroke B1,Silver,CHER Oleg,URS,,,Swimming,1988,,-1
+Men,100 m Backstroke C5,Silver,QUICKERT Michael,FRG,,,Swimming,1988,,-1
+Men,100 m Backstroke L4,Bronze,LAPP Michael,FRG,,,Swimming,1988,,-1
+Men,100 m Backstroke L5,Gold,WOELK Holger,FRG,,,Swimming,1988,,-1
+Men,200 m Backstroke C5,Silver,QUICKERT Michael,FRG,,,Swimming,1988,,-1
+Men,25 m Breaststroke 1B,Silver,HAUSLEITNER Gerhard,FRG,,,Swimming,1988,,-1
+Men,50 m Breaststroke L3,Gold,SCHLUBECK Matthias,FRG,,,Swimming,1988,,-1
+Men,50 m Breaststroke 2,Gold,EICKEMEYER Bernd,FRG,,,Swimming,1988,,-1
+Men,100 m Breaststroke B1,Bronze,SIGIDOV Vladimir,URS,,,Swimming,1988,,-1
+Men,100 m Breaststroke B2,Silver,GAPON Alexandre,URS,,,Swimming,1988,,-1
+Men,100 m Breaststroke L5,Silver,WOELK Holger,FRG,,,Swimming,1988,,-1
+Men,100 m Breaststroke L6,Gold,HAHNENGRESS Jochen,FRG,,,Swimming,1988,,-1
+Men,200 m Breaststroke B1,Silver,SIGIDOV Vladimir,URS,,,Swimming,1988,,-1
+Men,200 m Breaststroke B2,Silver,GAPON Alexandre,URS,,,Swimming,1988,,-1
+Men,25 m Butterfly 1B,Silver,HAUSLEITNER Gerhard,FRG,,,Swimming,1988,,-1
+Men,75 m Individual Medley 1B,Bronze,HAUSLEITNER Gerhard,FRG,,,Swimming,1988,,-1
+Men,100 m Individual Medley 2,Bronze,EICKEMEYER Bernd,FRG,,,Swimming,1988,,-1
+Men,200 m Individual Medley B1,Silver,CHER Oleg,URS,,,Swimming,1988,,-1
+Men,200 m Individual Medley C5,Bronze,QUICKERT Michael,FRG,,,Swimming,1988,,-1
+Men,200 m Individual Medley L5,Gold,WOELK Holger,FRG,,,Swimming,1988,,-1
+Women,50 m Freestyle B2,Bronze,CHIPOVALOVA Tatiana,URS,,,Swimming,1988,,-1
+Women,50 m Freestyle B3,Silver,MAKSIMOVA Nadejda,URS,,,Swimming,1988,,-1
+Women,100 m Freestyle B2,Bronze,CHIPOVALOVA Tatiana,URS,,,Swimming,1988,,-1
+Women,100 m Freestyle B3,Bronze,MAKSIMOVA Nadejda,URS,,,Swimming,1988,,-1
+Women,100 m Freestyle C8,Silver,JOHANSEN Katrin,FRO,,,Swimming,1988,,-1
+Women,100 m Freestyle L4,Silver,SIEGERS Britta,FRG,,,Swimming,1988,,-1
+Women,100 m Freestyle L6,Gold,HENGST Claudia,FRG,,,Swimming,1988,,-1
+Women,100 m Freestyle L6,Silver,VID KELDU Tora,FRO,,,Swimming,1988,,-1
+Women,400 m Freestyle C3-4,Silver,NAESS Christina,FRO,,,Swimming,1988,,-1
+Women,400 m Freestyle L6,Gold,HENGST Claudia,FRG,,,Swimming,1988,,-1
+Women,400 m Freestyle L6,Bronze,VID KELDU Tora,FRO,,,Swimming,1988,,-1
+Women,400 m Freestyle 6,Gold,KOPP Heidi,FRG,,,Swimming,1988,,-1
+Women,100 m Backstroke C3,Gold,NAESS Christina,FRO,,,Swimming,1988,,-1
+Women,100 m Backstroke C8,Bronze,JOHANSEN Katrin,FRO,,,Swimming,1988,,-1
+Women,100 m Backstroke L4,Gold,SIEGERS Britta,FRG,,,Swimming,1988,,-1
+Women,100 m Backstroke L6,Gold,HENGST Claudia,FRG,,,Swimming,1988,,-1
+Women,100 m Backstroke 6,Bronze,KOPP Heidi,FRG,,,Swimming,1988,,-1
+Women,50 m Breaststroke B2,Silver,CHIPOVALOVA Tatiana,URS,,,Swimming,1988,,-1
+Women,100 m Breaststroke B2,Bronze,CHIPOVALOVA Tatiana,URS,,,Swimming,1988,,-1
+Women,100 m Breaststroke L6,Gold,HENGST Claudia,FRG,,,Swimming,1988,,-1
+Women,100 m Breaststroke 6,Gold,KOPP Heidi,FRG,,,Swimming,1988,,-1
+Women,200 m Breaststroke B2,Bronze,CHIPOVALOVA Tatiana,URS,,,Swimming,1988,,-1
+Women,100 m Butterfly L6,Gold,HENGST Claudia,FRG,,,Swimming,1988,,-1
+Women,100 m Butterfly L6,Bronze,VID KELDU Tora,FRO,,,Swimming,1988,,-1
+Women,200 m Individual Medley L6,Gold,HENGST Claudia,FRG,,,Swimming,1988,,-1
+Women,200 m Individual Medley 6,Gold,KOPP Heidi,FRG,,,Swimming,1988,,-1
+Women,400 m Individual Medley B2,Bronze,CHIPOVALOVA Tatiana,URS,,,Swimming,1988,,-1
+Men,50 m Freestyle B3,Gold,CHESNOV Vladimir,EUN,,,Swimming,1992,,-1
+Men,100 m Freestyle B3,Gold,CHESNOV Vladimir,EUN,,,Swimming,1992,,-1
+Men,50 m Backstroke S4,Bronze,BAKAEV Albert,EUN,,,Swimming,1992,,-1
+Men,50 m Breaststroke SB2,Gold,KRISANOVIC Nenad,IPP,,,Swimming,1992,,-1
+Men,100 m Breaststroke SB10,Bronze,ROGOZHIN Nikolay,EUN,,,Swimming,1992,,-1
+Men,100 m Breaststroke B2,Gold,KRYLOV Vitalii,EUN,,,Swimming,1992,,-1
+Men,200 m Breaststroke B2,Gold,KRYLOV Vitalii,EUN,,,Swimming,1992,,-1
+Men,50 m Butterfly S3-4,Silver,KRISANOVIC Nenad,IPP,,,Swimming,1992,,-1
+Men,100 m Butterfly S9,Silver,KAPOURA Aleksei,EUN,,,Swimming,1992,,-1
+Men,100 m Butterfly B3,Bronze,CHESNOV Vladimir,EUN,,,Swimming,1992,,-1
+Men,200 m Medley SM9,Silver,KAPOURA Aleksei,EUN,,,Swimming,1992,,-1
+Men,400 m Medley B3,Bronze,CHESNOV Vladimir,EUN,,,Swimming,1992,,-1
+Women,100 m Freestyle S10,Silver,VID KELDU Tora,FRO,,,Swimming,1992,,-1
+Women,100 m Breaststroke B3,Bronze,PARSHINA Natalia,EUN,,,Swimming,1992,,-1
+Women,200 m Breaststroke B1-3,Silver,PARSHINA Natalia,EUN,,,Swimming,1992,,-1
+Women,200 m Medley B2,Bronze,MELNIKOVA Olga,EUN,,,Swimming,1992,,-1
+Men,50 m Breaststroke SB2,Silver,KRISANOVIC Nenad,YUG,,,Swimming,1996,,-1
+Women,50 m Freestyle S8,Silver,ANDREASEN Heidi,FRO,,,Swimming,2000,,-1
+Women,100 m Freestyle S8,Silver,ANDREASEN Heidi,FRO,,,Swimming,2000,,-1
+Women,400 m Freestyle S8,Silver,ANDREASEN Heidi,FRO,,,Swimming,2000,,-1
+Women,100 m Backstroke S8,Bronze,ANDREASEN Heidi,FRO,,,Swimming,2000,,-1
+Women,400 m Freestyle S8,Bronze,ANDREASEN Heidi,FRO,,,Swimming,2004,,-1
+Men,Singles 1B,Bronze,HASSLER Bruno,FRG,,,Table Tennis,1980,,-1
+Men,Singles 1C,Gold,EMMEL Manfred,FRG,,,Table Tennis,1980,,-1
+Men,Singles 1C,Silver,BOERSTLER B.,FRG,,,Table Tennis,1980,,-1
+Men,Singles C,Gold,KNABE Manfred,FRG,,,Table Tennis,1980,,-1
+Men,Singles C,Bronze,HOPPE H. J.,FRG,,,Table Tennis,1980,,-1
+Men,Singles D,Gold,KROLL P.,FRG,,,Table Tennis,1980,,-1
+Men,Singles E,Gold,DIMITRIJEVIC Svetislav,YUG,,,Table Tennis,1980,,-1
+Men,Singles E,Silver,SIMUNIC Franc,YUG,,,Table Tennis,1980,,-1
+Men,Singles E,Bronze,LIEVEN H.,FRG,,,Table Tennis,1980,,-1
+Men,Singles F,Gold,KELZENBERG K.,FRG,,,Table Tennis,1980,,-1
+Men,Singles F,Bronze,MAUELSHAGEN L.,FRG,,,Table Tennis,1980,,-1
+Men,Singles J,Gold,MAJER G.,FRG,,,Table Tennis,1980,,-1
+Women,Singles 2,Bronze,LAMSBACH Ruth,FRG,,,Table Tennis,1980,,-1
+Men,Teams 2,Gold,EMMEL Manfred,FRG,FR Germany,1.0,Table Tennis,1980,,-1
+Men,Teams 2,Gold,LOERCHER R.,FRG,FR Germany,2.0,Table Tennis,1980,,-1
+Men,Teams 3,Gold,GENTNER H.,FRG,FR Germany,1.0,Table Tennis,1980,,-1
+Men,Teams 3,Gold,SIMON Heinz,FRG,FR Germany,2.0,Table Tennis,1980,,-1
+Men,Teams 1C,Gold,BOERSTLER B.,FRG,FR Germany,1.0,Table Tennis,1980,,-1
+Men,Teams 1C,Gold,LANER G.,FRG,FR Germany,2.0,Table Tennis,1980,,-1
+Men,Teams C,Silver,HOPPE H. J.,FRG,FR Germany,1.0,Table Tennis,1980,,-1
+Men,Teams C,Silver,KNABE Manfred,FRG,FR Germany,2.0,Table Tennis,1980,,-1
+Men,Teams C,Silver,KROLL P.,FRG,FR Germany,3.0,Table Tennis,1980,,-1
+Men,Teams E,Gold,DIMITRIJEVIC Svetislav,YUG,Yugoslavia,1.0,Table Tennis,1980,,-1
+Men,Teams E,Gold,SIMUNIC Franc,YUG,Yugoslavia,2.0,Table Tennis,1980,,-1
+Men,Teams E,Bronze,HUHNERBEIN W.,FRG,FR Germany,1.0,Table Tennis,1980,,-1
+Men,Teams E,Bronze,LIEVEN H.,FRG,FR Germany,2.0,Table Tennis,1980,,-1
+Men,Teams F,Gold,KELZENBERG K.,FRG,FR Germany,1.0,Table Tennis,1980,,-1
+Men,Teams F,Gold,MAUELSHAGEN L.,FRG,FR Germany,2.0,Table Tennis,1980,,-1
+Men,Singles 2,Gold,DORR Werner,FRG,,,Table Tennis,1984,,-1
+Men,Singles 3,Gold,SIMON Heinz,FRG,,,Table Tennis,1984,,-1
+Men,Singles 3,Silver,KOLB Rainer,FRG,,,Table Tennis,1984,,-1
+Men,Singles 4,Gold,KREIDEL Thomas,FRG,,,Table Tennis,1984,,-1
+Men,Singles 4,Silver,GLAESE P.,FRG,,,Table Tennis,1984,,-1
+Men,Singles 1A,Gold,KIRCHHOFF Ralf,FRG,,,Table Tennis,1984,,-1
+Men,Singles 1A,Silver,TIETZE H.,FRG,,,Table Tennis,1984,,-1
+Men,Singles 1B,Gold,HASSLER Bruno,FRG,,,Table Tennis,1984,,-1
+Men,Singles 1C,Gold,EMMEL Manfred,FRG,,,Table Tennis,1984,,-1
+Men,Singles 1C,Bronze,JAKSCH Rudolf,FRG,,,Table Tennis,1984,,-1
+Men,Singles L2,Gold,VELROYEN Herbert,FRG,,,Table Tennis,1984,,-1
+Men,Singles L2,Bronze,DJURASINOVIC Ilija,YUG,,,Table Tennis,1984,,-1
+Men,Singles L3,Bronze,WELTING Stephan,FRG,,,Table Tennis,1984,,-1
+Men,Singles L3,Bronze,MUELLER Klaus,FRG,,,Table Tennis,1984,,-1
+Men,Singles L4,Bronze,KNABE Manfred,FRG,,,Table Tennis,1984,,-1
+Men,Singles L4,Bronze,GAJIC Z.,YUG,,,Table Tennis,1984,,-1
+Men,Singles L5,Gold,SIMONIC Franc,YUG,,,Table Tennis,1984,,-1
+Men,Singles L5,Bronze,HULLERUM P.,FRG,,,Table Tennis,1984,,-1
+Men,Open CL,Bronze,GAJIC Z.,YUG,,,Table Tennis,1984,,-1
+Men,Open 1A-4,Gold,KREIDEL Thomas,FRG,,,Table Tennis,1984,,-1
+Men,Open 1A-4,Bronze,GLAESE P.,FRG,,,Table Tennis,1984,,-1
+Women,Singles 2,Bronze,LAMSBACH Ruth,FRG,,,Table Tennis,1984,,-1
+Women,Singles 3,Gold,WENINGER Christiane,FRG,,,Table Tennis,1984,,-1
+Women,Open 1B-4,Gold,LAMSBACH Ruth,FRG,,,Table Tennis,1984,,-1
+Men,Teams L1,Silver,SCHMIDTMAYER,FRG,FR Germany,1.0,Table Tennis,1984,,-1
+Men,Teams L4,Gold,HORSCH Wolfgang,FRG,FR Germany,1.0,Table Tennis,1984,,-1
+Men,Teams L4,Gold,KNABE Manfred,FRG,FR Germany,2.0,Table Tennis,1984,,-1
+Men,Teams L4,Gold,TOLLWERTH Dieter,FRG,FR Germany,3.0,Table Tennis,1984,,-1
+Men,Teams L5,Gold,BECK Rudolf,FRG,FR Germany,1.0,Table Tennis,1984,,-1
+Men,Teams L5,Gold,HULLERUM Peter,FRG,FR Germany,2.0,Table Tennis,1984,,-1
+Men,Teams L5,Gold,KOLLER Manfred,FRG,FR Germany,3.0,Table Tennis,1984,,-1
+Men,Teams L5,Silver,DIMITRYEVIC Svetislav,YUG,Yugoslavia,1.0,Table Tennis,1984,,-1
+Men,Teams L5,Silver,SIMONIC Franc,YUG,Yugoslavia,2.0,Table Tennis,1984,,-1
+Men,Singles 4,Gold,KREIDEL Thomas,FRG,,,Table Tennis,1988,,-1
+Men,Singles 4,Silver,SCHMIDT Peter,FRG,,,Table Tennis,1988,,-1
+Men,Singles 1B,Silver,HASSLER Bruno,FRG,,,Table Tennis,1988,,-1
+Men,Singles 1C,Gold,EMMEL Manfred,FRG,,,Table Tennis,1988,,-1
+Men,Singles 1C,Silver,JAKSCH Rudolf,FRG,,,Table Tennis,1988,,-1
+Men,Singles 1A-4,Bronze,VELROYEN Herbert,FRG,,,Table Tennis,1988,,-1
+Men,Singles TT2,Silver,VELROYEN Herbert,FRG,,,Table Tennis,1988,,-1
+Men,Singles TT3,Gold,KURFESS Thomas,FRG,,,Table Tennis,1988,,-1
+Men,Singles TT3,Silver,SCHMIDT Rainer,FRG,,,Table Tennis,1988,,-1
+Men,Singles TT3,Bronze,WELTING Stephan,FRG,,,Table Tennis,1988,,-1
+Men,Singles TT4,Bronze,MUELLER Klaus,FRG,,,Table Tennis,1988,,-1
+Men,Singles TT5,Bronze,HORSCH Wolfgang,FRG,,,Table Tennis,1988,,-1
+Men,Singles TT7,Gold,KOLLER Manfred,FRG,,,Table Tennis,1988,,-1
+Men,Singles TT7,Silver,DIMITRIJEVIC Svetislav,YUG,,,Table Tennis,1988,,-1
+Men,Singles TT open,Silver,KNABE Manfred,FRG,,,Table Tennis,1988,,-1
+Women,Singles 2,Silver,LAMSBACH Ruth,FRG,,,Table Tennis,1988,,-1
+Women,Singles 3,Gold,WENINGER Christiane,FRG,,,Table Tennis,1988,,-1
+Women,Singles 4,Silver,SIKORA Monika,FRG,,,Table Tennis,1988,,-1
+Women,Singles 2-4,Bronze,WENINGER Christiane,FRG,,,Table Tennis,1988,,-1
+Women,Singles TT7,Bronze,BAUER Birgit,FRG,,,Table Tennis,1988,,-1
+Men,Teams TT2,Bronze,REHDER Hans Jurgen,FRG,FR Germany,1.0,Table Tennis,1988,,-1
+Men,Teams TT2,Bronze,VELROYEN Herbert,FRG,FR Germany,2.0,Table Tennis,1988,,-1
+Men,Teams TT5,Gold,HORSCH Wolfgang,FRG,FR Germany,1.0,Table Tennis,1988,,-1
+Men,Teams TT5,Gold,SCHMITT Thomas,FRG,FR Germany,2.0,Table Tennis,1988,,-1
+Men,Teams TT7,Gold,KOLLER Manfred,FRG,FR Germany,1.0,Table Tennis,1988,,-1
+Men,Teams TT7,Gold,VAHLE Markus,FRG,FR Germany,2.0,Table Tennis,1988,,-1
+Men,Singles 3,Bronze,KESLER Zlatko,IPP,,,Table Tennis,1992,,-1
+Men,Singles 3,Gold,KESLER Zlatko,YUG,,,Table Tennis,1996,,-1
+Men,Singles 3,Silver,KESLER Zlatko,YUG,,,Table Tennis,2000,,-1
+Men,Singles 3,Bronze,KESLER Zlatko,SCG,,,Table Tennis,2004,,-1
+Men,Singles 1B,Bronze,HASSLER Bruno,FRG,,,Wheelchair Tennis,1980,,-1
+Men,Singles 1C,Gold,EMMEL Manfred,FRG,,,Wheelchair Tennis,1980,,-1
+Men,Singles 1C,Silver,BOERSTLER B.,FRG,,,Wheelchair Tennis,1980,,-1
+Men,Singles C,Gold,KNABE Manfred,FRG,,,Wheelchair Tennis,1980,,-1
+Men,Singles C,Bronze,HOPPE H. J.,FRG,,,Wheelchair Tennis,1980,,-1
+Men,Singles D,Gold,KROLL P.,FRG,,,Wheelchair Tennis,1980,,-1
+Men,Singles E,Gold,DIMITRIJEVIC Svetislav,YUG,,,Wheelchair Tennis,1980,,-1
+Men,Singles E,Silver,SIMUNIC Franc,YUG,,,Wheelchair Tennis,1980,,-1
+Men,Singles E,Bronze,LIEVEN H.,FRG,,,Wheelchair Tennis,1980,,-1
+Men,Singles F,Gold,KELZENBERG K.,FRG,,,Wheelchair Tennis,1980,,-1
+Men,Singles F,Bronze,MAUELSHAGEN L.,FRG,,,Wheelchair Tennis,1980,,-1
+Men,Singles J,Gold,MAJER G.,FRG,,,Wheelchair Tennis,1980,,-1
+Women,Singles 2,Bronze,LAMSBACH Ruth,FRG,,,Wheelchair Tennis,1980,,-1
+Men,Teams 2,Gold,EMMEL Manfred,FRG,FR Germany,1.0,Wheelchair Tennis,1980,,-1
+Men,Teams 2,Gold,LOERCHER R.,FRG,FR Germany,2.0,Wheelchair Tennis,1980,,-1
+Men,Teams 3,Gold,GENTNER H.SIMON Heinz,FRG,FR Germany,1.0,Wheelchair Tennis,1980,,-1
+Men,Teams 1C,Gold,BOERSTLER B.LANER G.,FRG,FR Germany,1.0,Wheelchair Tennis,1980,,-1
+Men,Teams C,Silver,HOPPE H. J.KNABE Manfred,FRG,FR Germany,1.0,Wheelchair Tennis,1980,,-1
+Men,Teams C,Silver,KROLL P.,FRG,FR Germany,2.0,Wheelchair Tennis,1980,,-1
+Men,Teams E,Gold,DIMITRIJEVIC Svetislav,YUG,Yugoslavia,1.0,Wheelchair Tennis,1980,,-1
+Men,Teams E,Gold,SIMUNIC Franc,YUG,Yugoslavia,2.0,Wheelchair Tennis,1980,,-1
+Men,Teams E,Bronze,HUHNERBEIN W.LIEVEN H.,FRG,FR Germany,1.0,Wheelchair Tennis,1980,,-1
+Men,Teams F,Gold,KELZENBERG K.MAUELSHAGEN L.,FRG,FR Germany,1.0,Wheelchair Tennis,1980,,-1
+Men,Singles 2,Gold,DORR Werner,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles 3,Gold,SIMON Heinz,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles 3,Silver,KOLB Rainer,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles 4,Gold,KREIDEL Thomas,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles 4,Silver,GLAESE P.,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles 1A,Gold,KIRCHHOFF Ralf,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles 1A,Silver,TIETZE H.,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles 1B,Gold,HASSLER Bruno,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles 1C,Gold,EMMEL Manfred,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles 1C,Bronze,JAKSCH Rudolf,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles L2,Gold,VELROYEN Herbert,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles L2,Bronze,DJURASINOVIC Ilija,YUG,,,Wheelchair Tennis,1984,,-1
+Men,Singles L3,Bronze,WELTING Stephan,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles L3,Bronze,MUELLER Klaus,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles L4,Bronze,KNABE Manfred,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Singles L4,Bronze,GAJIC Z.,YUG,,,Wheelchair Tennis,1984,,-1
+Men,Singles L5,Gold,SIMONIC Franc,YUG,,,Wheelchair Tennis,1984,,-1
+Men,Singles L5,Bronze,HULLERUM P.,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Open CL,Bronze,GAJIC Z.,YUG,,,Wheelchair Tennis,1984,,-1
+Men,Open 1A-4,Gold,KREIDEL Thomas,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Open 1A-4,Bronze,GLAESE P.,FRG,,,Wheelchair Tennis,1984,,-1
+Women,Singles 2,Bronze,LAMSBACH Ruth,FRG,,,Wheelchair Tennis,1984,,-1
+Women,Singles 3,Gold,WENINGER Christiane,FRG,,,Wheelchair Tennis,1984,,-1
+Women,Open 1B-4,Gold,LAMSBACH Ruth,FRG,,,Wheelchair Tennis,1984,,-1
+Men,Teams L1,Silver,SCHMIDTMAYER,FRG,FR Germany,1.0,Wheelchair Tennis,1984,,-1
+Men,Teams L4,Gold,HORSCH Wolfgang,FRG,FR Germany,1.0,Wheelchair Tennis,1984,,-1
+Men,Teams L4,Gold,KNABE Manfred,FRG,FR Germany,2.0,Wheelchair Tennis,1984,,-1
+Men,Teams L4,Gold,TOLLWERTH Dieter,FRG,FR Germany,3.0,Wheelchair Tennis,1984,,-1
+Men,Teams L5,Gold,BECK Rudolf,FRG,FR Germany,1.0,Wheelchair Tennis,1984,,-1
+Men,Teams L5,Gold,HULLERUM Peter,FRG,FR Germany,2.0,Wheelchair Tennis,1984,,-1
+Men,Teams L5,Gold,KOLLER Manfred,FRG,FR Germany,3.0,Wheelchair Tennis,1984,,-1
+Men,Teams L5,Silver,DIMITRYEVIC Svetislav,YUG,Yugoslavia,1.0,Wheelchair Tennis,1984,,-1
+Men,Teams L5,Silver,SIMONIC Franc,YUG,Yugoslavia,2.0,Wheelchair Tennis,1984,,-1
+Men,Singles 4,Gold,KREIDEL Thomas,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles 4,Silver,SCHMIDT Peter,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles 1B,Silver,HASSLER Bruno,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles 1C,Gold,EMMEL Manfred,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles 1C,Silver,JAKSCH Rudolf,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles 1A-4,Bronze,VELROYEN Herbert,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles TT2,Silver,VELROYEN Herbert,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles TT3,Gold,KURFESS Thomas,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles TT3,Silver,SCHMIDT Rainer,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles TT3,Bronze,WELTING Stephan,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles TT4,Bronze,MUELLER Klaus,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles TT5,Bronze,HORSCH Wolfgang,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles TT7,Gold,KOLLER Manfred,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Singles TT7,Silver,DIMITRIJEVIC Svetislav,YUG,,,Wheelchair Tennis,1988,,-1
+Men,Singles TT open,Silver,KNABE Manfred,FRG,,,Wheelchair Tennis,1988,,-1
+Women,Singles 2,Silver,LAMSBACH Ruth,FRG,,,Wheelchair Tennis,1988,,-1
+Women,Singles 3,Gold,WENINGER Christiane,FRG,,,Wheelchair Tennis,1988,,-1
+Women,Singles 4,Silver,SIKORA Monika,FRG,,,Wheelchair Tennis,1988,,-1
+Women,Singles 2-4,Bronze,WENINGER Christiane,FRG,,,Wheelchair Tennis,1988,,-1
+Women,Singles TT7,Bronze,BAUER Birgit,FRG,,,Wheelchair Tennis,1988,,-1
+Men,Teams TT2,Bronze,REHDER Hans Jurgen,FRG,FR Germany,1.0,Wheelchair Tennis,1988,,-1
+Men,Teams TT2,Bronze,VELROYEN Herbert,FRG,FR Germany,2.0,Wheelchair Tennis,1988,,-1
+Men,Teams TT5,Gold,HORSCH Wolfgang,FRG,FR Germany,1.0,Wheelchair Tennis,1988,,-1
+Men,Teams TT5,Gold,SCHMITT Thomas,FRG,FR Germany,2.0,Wheelchair Tennis,1988,,-1
+Men,Teams TT7,Gold,KOLLER Manfred,FRG,FR Germany,1.0,Wheelchair Tennis,1988,,-1
+Men,Teams TT7,Gold,VAHLE Markus,FRG,FR Germany,2.0,Wheelchair Tennis,1988,,-1
+Men,Singles 3,Bronze,KESLER Zlatko,IPP,,,Wheelchair Tennis,1992,,-1
+Men,Singles 3,Gold,KESLER Zlatko,YUG,,,Wheelchair Tennis,1996,,-1
+Men,Singles 3,Silver,KESLER Zlatko,YUG,,,Wheelchair Tennis,2000,,-1
+Men,Singles 3,Bronze,KESLER Zlatko,SCG,,,Wheelchair Tennis,2004,,-1
+Men,Standing Volleyball,Gold,DURRER Rudolf,FRG,FR Germany,1.0,Volleyball,1988,,-1
+Men,Standing Volleyball,Gold,GIEBEL Josef,FRG,FR Germany,2.0,Volleyball,1988,,-1
+Men,Standing Volleyball,Gold,HEINRICH Bernd,FRG,FR Germany,3.0,Volleyball,1988,,-1
+Men,Standing Volleyball,Gold,KOHL Manfred,FRG,FR Germany,4.0,Volleyball,1988,,-1
+Men,Standing Volleyball,Gold,KRUSKA Thomas,FRG,FR Germany,5.0,Volleyball,1988,,-1
+Men,Standing Volleyball,Gold,PROBST Anton,FRG,FR Germany,6.0,Volleyball,1988,,-1
+Men,Standing Volleyball,Gold,QUADE Karl,FRG,FR Germany,7.0,Volleyball,1988,,-1
+Men,Standing Volleyball,Gold,SCHIETERING Rudolf,FRG,FR Germany,8.0,Volleyball,1988,,-1
+Men,Standing Volleyball,Gold,SOICKE Siegmund,FRG,FR Germany,9.0,Volleyball,1988,,-1
+Men,Standing Volleyball,Gold,WEISSENFELS Josef,FRG,FR Germany,10.0,Volleyball,1988,,-1
+Men,Standing Volleyball,Bronze,BANAS Peter,TCH,Czechoslovakia,1.0,Volleyball,1992,,-1
+Men,Standing Volleyball,Bronze,CSADER Michal,TCH,Czechoslovakia,2.0,Volleyball,1992,,-1
+Men,Standing Volleyball,Bronze,DAMAJKA Peter,TCH,Czechoslovakia,3.0,Volleyball,1992,,-1
+Men,Standing Volleyball,Bronze,KULAS Milan,TCH,Czechoslovakia,4.0,Volleyball,1992,,-1
+Men,Standing Volleyball,Bronze,MIHALCO Josef,TCH,Czechoslovakia,5.0,Volleyball,1992,,-1
+Men,Standing Volleyball,Bronze,MORAVCIK Peter,TCH,Czechoslovakia,6.0,Volleyball,1992,,-1
+Men,Standing Volleyball,Bronze,MOURECEK Jaromir,TCH,Czechoslovakia,7.0,Volleyball,1992,,-1
+Men,Standing Volleyball,Bronze,NOVOSAD Lubomir,TCH,Czechoslovakia,8.0,Volleyball,1992,,-1
+Men,Standing Volleyball,Bronze,PINKAVA Jaromir,TCH,Czechoslovakia,9.0,Volleyball,1992,,-1
+Men,Standing Volleyball,Bronze,SVOBODA Zdenek,TCH,Czechoslovakia,10.0,Volleyball,1992,,-1
+Men,Standing Volleyball,Bronze,TRTIK Frantisek,TCH,Czechoslovakia,11.0,Volleyball,1992,,-1
+Men,Standing Volleyball,Bronze,VYTISK Ladislav,TCH,Czechoslovakia,12.0,Volleyball,1992,,-1
